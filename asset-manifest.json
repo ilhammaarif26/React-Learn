@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ilhammaarif26/React-Learn.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ilhammaarif26/React-Learn.git/static/js/main.85daaaed.chunk.js",
+    "main.js.map": "/ilhammaarif26/React-Learn.git/static/js/main.85daaaed.chunk.js.map",
+    "runtime-main.js": "/ilhammaarif26/React-Learn.git/static/js/runtime-main.dcc8ce82.js",
+    "runtime-main.js.map": "/ilhammaarif26/React-Learn.git/static/js/runtime-main.dcc8ce82.js.map",
+    "static/js/2.0dc61612.chunk.js": "/ilhammaarif26/React-Learn.git/static/js/2.0dc61612.chunk.js",
+    "static/js/2.0dc61612.chunk.js.map": "/ilhammaarif26/React-Learn.git/static/js/2.0dc61612.chunk.js.map",
+    "static/js/3.c2ef1743.chunk.js": "/ilhammaarif26/React-Learn.git/static/js/3.c2ef1743.chunk.js",
+    "static/js/3.c2ef1743.chunk.js.map": "/ilhammaarif26/React-Learn.git/static/js/3.c2ef1743.chunk.js.map",
+    "index.html": "/ilhammaarif26/React-Learn.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ilhammaarif26/React-Learn.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0dc61612.chunk.js.LICENSE.txt": "/ilhammaarif26/React-Learn.git/static/js/2.0dc61612.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ilhammaarif26/React-Learn.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc8ce82.js",
+    "static/js/2.0dc61612.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.85daaaed.chunk.js"
+  ]
+}
